@@ -356,14 +356,14 @@ section .button button:hover{
   color: #fff;
 }
 /* Contact Me CSS */
-.contact{
+.Project{
   background: #F0F8FF;
 }
-.contact .content{
+.Project .Project{
   margin: 0 auto;
   padding: 30px 0;
 }
-.contact .text{
+.Project .text{
   width: 80%;
   text-align: center;
   margin: auto;
